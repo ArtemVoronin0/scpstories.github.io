@@ -1,0 +1,226 @@
+/* Заголовок всего сайта */
+.mainpage {
+	
+	border: 0px solid white;
+	
+	background-color: white;
+	
+	font-family: courier, courier new, serif;
+	
+	font-size: 70px;
+	
+	font-weight: 900;
+	
+	padding: 4px;
+	
+	margin: 10px 15px 0px 0px;
+	
+	color: white;
+	
+	width: 1000px;
+	
+	height: 1px;
+	
+	border-radius: 3px;
+	
+	
+}
+/* border о рассказе что такое SCPStories */
+.aboutpage {
+	
+	border: 0px solid #545454;
+	
+	background-color: #545454;
+	
+	width: 400px;
+	
+	height: 600px;
+	
+	margin: 100px 0px 0px 0px;
+	
+	font-family: courier, courier new, serif;
+	
+	border-radius: 8px;
+	
+	border-left: 10px solid green;
+	
+	
+}
+/* Заголовок рассказа про SCPStories. */
+h1.bigtext {
+	
+	margin: 0px 20px 10px 45px;
+	
+	color: white;
+
+}
+/* Тут рассказывается что такое SCPStories, текст короче. */
+.abouttext {
+	
+	color: white;
+
+    margin: 0px 0px 10px 9px;
+
+}
+ /* Ссылки на истории или что то типо того */
+.chapterone {
+	border: 0px solid #545454;
+	
+	background-color: #545454;
+	
+	width: 230px;
+	
+	height: 20px;
+	
+	margin: -600px 0px 0px 420px;
+	
+	border-radius: 8px;
+	
+	padding: 5px;
+	
+	border-left: 10px solid #CDA331;
+	
+	font-family: courier, courier new, serif;
+	
+	font-weight: 1000;
+}
+
+.chaptertwo {
+	border: 0px solid #545454;
+	
+	background-color: #545454;
+	
+	width: 230px;
+	
+	height: 20px;
+	
+	margin: 7px 0px 0px 420px;
+	
+	border-radius: 8px;
+	
+	padding: 5px;
+	
+	border-left: 10px solid #CDA331;
+	
+	font-family: courier, courier new, serif;
+	
+	font-weight: 1000;
+}
+
+.chapterthree {
+	border: 0px solid #545454;
+	
+	background-color: #545454;
+	
+	width: 230px;
+	
+	height: 20px;
+	
+	margin: 7px 0px 0px 420px;
+	
+	border-radius: 8px;
+	
+	padding: 5px;
+	
+	border-left: 10px solid #CDA331;
+	
+	font-family: courier, courier new, serif;
+	
+	font-weight: 1000;
+}
+
+ /* Рекомендация R1 */
+#r1 {
+	
+	border: 1px solid #545454;
+	
+	background-color: #545454;
+	
+	width: 400px;
+	
+	height: 300px;
+	
+	margin: 10px 0px 0px 420px;
+	
+	border-radius: 8px;
+	
+	border-left: 10px solid green;
+	
+	padding: 7px;
+	
+	font-family: courier, courier new, serif;
+	
+	color: white;
+	
+	padding: 10px;
+	
+}
+
+/* Картинка рекомендации */
+
+img.r1img {
+    
+	width: 50%;
+    
+	height: auto;
+	
+	margin: -29px 0px 0px 0px;
+
+}
+
+/* Текст рекомендации */
+
+.r1text {
+	margin: 0px 0px 0px 0px;
+}
+
+/* Заголовок рекомендации */
+
+.r1h1 {
+	margin: -5px 0px 0px 215px;
+}
+
+h1.r {
+	margin: -10px 0px 0px 0px;
+	
+	font-family: courier, courier new, serif;
+	
+	font-size: 20px;
+}
+
+/* Задний фон сайта */
+
+body {
+		background-image: url("https://i.ytimg.com/vi/yZ-yKpvSzAU/maxresdefault.jpg");
+        background-repeat:no-repeat;
+       background-size: cover; 
+}
+
+
+a:link {
+	color: white;
+}
+
+a:visited {
+	color: grey;
+}
+
+a:hover {
+	color: #ABAAAA;
+}
+
+a:active {
+	color: #464646;
+	color: #464646;
+}
+
+
+
+
+
+
+
+
+	
+
+
