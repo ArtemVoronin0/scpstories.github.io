@@ -92,7 +92,7 @@ body {
 
 	width: 660px;
 
-	height: 2100px;
+	height: 2300px;
 
 	background: linear-gradient(to right, #6A6969, #4D4D4D);
 
@@ -128,18 +128,6 @@ padding: 3px;
 
 margin: 100px 0px 0px 845px;
 }
-
-/********** Desktop - 920px breakpoint ***************************/
-@media screen and (max-width: 60em) {}
-
-/*iPAD SUPPORT=====================================--*/
-@media (max-width: 56.250em) {}
-
-/*NEXUS SUPPORT=====================================--*/
-@media (max-width: 44.063em) {}
-
-/*iPhone SUPPORT=====================================--*/
-@media screen and (max-width: 22.500em) {}
 
 .endtext {
 	margin: 0px 0px 0px 0px;
